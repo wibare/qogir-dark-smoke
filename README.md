@@ -1,6 +1,6 @@
 # Qogir-Dark-Smoke
 
-Variante **“Smoke”** del tema [Qogir](https://github.com/vinceliuice/Qogir) (GTK3/GTK4/GTK2, Kvantum y rofi), con paleta oscura personalizada y variante compacta.
+Variante **“Smoke”** del tema [Qogir](https://github.com/vinceliuice/Qogir-theme) (GTK3/GTK4/GTK2, Kvantum y rofi), con paleta oscura personalizada y variante compacta.
 
 ## Contenido
 
@@ -11,7 +11,7 @@ Variante **“Smoke”** del tema [Qogir](https://github.com/vinceliuice/Qogir) 
 | `Kvantum/Qogir-dark-Smoke` | Tema Kvantum (Qt/KDE) a juego |
 | `Kvantum/Qogir-dark-Smoke-Compact` | Variante Kvantum compacta (menús sólidos) |
 | `rofi/rounded-smoke-dark.rasi` | Tema de rofi a juego (autónomo) |
-| `rofi/template/rounded-template.rasi` | Plantilla base de [newmanls](https://github.com/newmanls) (referencia) |
+| `rofi/template/rounded-template.rasi` | Plantilla base de [newmanls](https://github.com/newmanls/rofi-themes-collection) (referencia) |
 
 ## Instalación
 
@@ -35,7 +35,7 @@ Luego:
 
 ## Créditos
 
-- [vinceliuice/Qogir](https://github.com/vinceliuice/Qogir) — tema base (GPL-3.0).
-- [newmanls](https://github.com/newmanls) `rounded-template.rasi` — plantilla rofi de referencia.
+- [vinceliuice/Qogir-theme](https://github.com/vinceliuice/Qogir-theme) — tema base (GPL-3.0).
+- [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) `rounded-template.rasi` — plantilla rofi de referencia.
 
-Tema distribuido bajo [GPL-3.0](https://github.com/vinceliuice/Qogir/blob/master/LICENSE).
+Tema distribuido bajo [GPL-3.0](https://github.com/vinceliuice/Qogir-theme/blob/master/LICENSE).
